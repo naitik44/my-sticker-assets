@@ -1,0 +1,57 @@
+{
+  "categories": [
+    {
+      "name": "Subaru",
+      "sticker_packs": [
+        {
+          "identifier": "subaru_pack_1",
+          "name": "Subaru",
+          "publisher": "Naitik",
+          "tray_image_url": "https://raw.githubusercontent.com/naitik44/my-sticker-assets/refs/heads/main/Subaru/1.png",
+          "stickers": [
+            {
+              "image_url": "https://raw.githubusercontent.com/naitik44/my-sticker-assets/refs/heads/main/Subaru/1.png",
+              "emojis": ["✨"]
+            },
+            {
+              "image_url": "https://raw.githubusercontent.com/naitik44/my-sticker-assets/refs/heads/main/Subaru/2.png",
+              "emojis": ["✨"]
+            },
+            {
+              "image_url": "https://raw.githubusercontent.com/naitik44/my-sticker-assets/refs/heads/main/Subaru/3.png",
+              "emojis": ["✨"]
+            },
+            {
+              "image_url": "https://raw.githubusercontent.com/naitik44/my-sticker-assets/refs/heads/main/Subaru/4.png",
+              "emojis": ["✨"]
+            },
+            {
+              "image_url": "https://raw.githubusercontent.com/naitik44/my-sticker-assets/refs/heads/main/Subaru/5.png",
+              "emojis": ["✨"]
+            },
+            {
+              "image_url": "https://raw.githubusercontent.com/naitik44/my-sticker-assets/refs/heads/main/Subaru/6.png",
+              "emojis": ["✨"]
+            },
+            {
+              "image_url": "https://raw.githubusercontent.com/naitik44/my-sticker-assets/refs/heads/main/Subaru/7.png",
+              "emojis": ["✨"]
+            },
+            {
+              "image_url": "https://raw.githubusercontent.com/naitik44/my-sticker-assets/refs/heads/main/Subaru/8.png",
+              "emojis": ["✨"]
+            },
+            {
+              "image_url": "https://raw.githubusercontent.com/naitik44/my-sticker-assets/refs/heads/main/Subaru/9.png",
+              "emojis": ["✨"]
+            },
+            {
+              "image_url": "https://raw.githubusercontent.com/naitik44/my-sticker-assets/refs/heads/main/Subaru/10.png",
+              "emojis": ["✨"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
